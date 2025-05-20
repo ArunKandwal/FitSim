@@ -38,10 +38,4 @@ It’s designed as an educational tool for operating systems students and enthus
 
 ---
 
-## 📂 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/memusim.git
-   cd memusim
 
